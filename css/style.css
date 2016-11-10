@@ -60,6 +60,7 @@ p.category{
   border: 1px solid black; 
   text-align: center;
   font-size: 100%;
+  font-weight: bold;
   color: black;
 }
 
