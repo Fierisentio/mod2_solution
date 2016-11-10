@@ -13,7 +13,7 @@ h1 {
 
 .row {
   width: 100%;
-  font-family:  cursive, Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 
@@ -52,12 +52,13 @@ p.content{
 p.category{
   position: absolute;
   top:  16px;
+  padding: 2.5px;
   right: 15px;
   width: 90px;
   height: 25px;
   margin: 0px;
   border: 1px solid black; 
-  text-align: center; 
+  text-align: center;
   font-size: 100%;
   color: black;
 }
